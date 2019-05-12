@@ -64,5 +64,6 @@ func getAllValue() {
 }
 
 func main() {
-	getAllValue()
+	//getAllValue()
+	getValue()
 }
